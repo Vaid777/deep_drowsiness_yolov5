@@ -32,6 +32,13 @@ deep_drowsiness_yolov5/
 **Mixed Awake & Drowsy Samples (live webcam detections):**  
 ![mixed](./mixed_result.jpg)
 
+**Drowsy (bounding box only):**  
+![drowsy](./drowsy_result.jpg)
+
+**Drowsy with confidence (0.9):**  
+![drowsy_confidence](./drowsy_conf_result.jpg)
+
+
 ---
 
 ## 🔧 Features
